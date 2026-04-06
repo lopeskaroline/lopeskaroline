@@ -1,16 +1,45 @@
-# About me
-Hi, I'm Karoline 👋
-I'm a Testing Analyst and graduated in Analyses and system development. At the moment I'm learn about Cypress with JavaScript
+Hi there, I'm Karoline Lopes da Silva 👋
 
-- 🌱 I’m currently learning about Cypress, JavaScrit, Automated Test Web and API
-- 💻 Tecnologies: .NET, JavaScript, Java, ReactJs, Selenium, Appium, Cypress, MySql and MongoDB
-- ⚡ Fun fact: I love to watch tv shows, anime, cooking shows and I love cooking 📺🍕
+💻 QA Engineer | Test Analyst | QA Automation Engineer
+Passionate about software quality, test automation, and continuous improvement.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/lopeskaroline)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/karoline-lopes-silva/)
+I have solid experience in Web and API testing, especially in banking and financial systems, working with automation frameworks and quality strategies to ensure reliable software delivery.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopeskaroline&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopeskaroline)](https://github.com/anuraghazra/github-readme-stats)
+🌱 Currently improving my skills in:
+
+- Cypress with JavaScript
+- API Test Automation
+- Mobile Test Automation
+- CI/CD pipelines
+
+🧪 Tech Stack & Tools:
+
+- Cypress
+- Appium
+- Postman
+- Karate DSL
+- JavaScript
+- Java
+- .NET
+- SQL / MySQL
+- MongoDB
+- Git / GitHub
+- Jenkins
+- Jira
+
+🚀 Main expertise:
+
+- Automated Web Testing
+- API Testing
+- Regression Testing
+- Smoke / Sanity Testing
+- Test Planning
+- BDD
+- CI/CD Quality Gates
+
+
+📫 Let's connect:
+LinkedIn: [linkedin.com/in/karoline-lopes-silva]
 
 
 
